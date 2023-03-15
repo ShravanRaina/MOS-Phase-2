@@ -1,4 +1,4 @@
-# MOS-Phase-2
+# Multiprogramming Operating System (MOS): Phase-2
 
 A Virtual Machine which takes input from the Card Reader and prints the output on the Line Printer.
 
